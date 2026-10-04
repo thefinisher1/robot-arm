@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ESP32 4-DOF Robotic Arm Controller Firmware
 
 An industrial-grade, real-time embedded firmware MVP for a 4-DOF articulated robotic arm built on the **ESP32 DevKit V1** and **PCA9685 16-Channel 12-Bit I2C PWM Driver**.
@@ -393,4 +394,4 @@ struct JointConfig {
 
 ## License
 
-MIT License. Designed for university robotics coursework, intermediate embedded developers, and educational robotics projects.
+MIT License. Designed for university robotics coursework, intermediate embedded developers, and educational robotics projects
